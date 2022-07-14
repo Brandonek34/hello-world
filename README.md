@@ -1,5 +1,5 @@
 # hello-world
 My first repository!
-I am a 26 year old recovering alcoholic who wants to get into the programming field.
+I am excited to be here! I am a 28 year old English major who realized post-graduation that I love technology and coding!
 I have a Siberian husky named Rey. She is very naughty and cute.
-My bean always has to take a massive dump when she gets home. It's like clockwork.
+My favorite things to do are write beautiful code and do Brazilian Jiu-Jitsu.
